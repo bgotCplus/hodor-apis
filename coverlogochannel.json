@@ -1,0 +1,30 @@
+{
+  "currentPage": {
+    "displayTemplate": "landing",
+    "displayName": "Comédie+",
+    "BOName": "[Webapp] Corner comédie+ (abonné)",
+    "path": "/pid7073-webapp-corner-comedie-abonne.html"
+  },
+  "covers": [
+    {
+      "type": "coverImage",
+      "contents": [
+        {
+          "type": "VoD",
+          "contentID": "7704782_50016",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/top/61767363",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/image.canal-plus.com/media_cpa/img/channel/white/288_218/png/40004_288_218.png",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Florent Peyre : Tout public ou pas",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/22e6fabc1673b89ec31a19b423fad5a3/okapi/7704782_50016;1oN9;7Y3Kr8wXHh.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayLogo=true",
+            "BOName": "Florent Peyre : Tout public ou pas",
+            "path": "/divertissement/florent-peyre-tout-public-ou-pas/h/7704782_50016"
+          }
+        }
+      ]
+    }
+  ],
+  "strates": []
+}
