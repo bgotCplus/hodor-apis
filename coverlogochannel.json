@@ -3,9 +3,11 @@
     "displayTemplate": "landing",
     "displayName": "Comédie+",
     "BOName": "[Webapp] Corner comédie+ (abonné)",
+    "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/top/61767363",
     "path": "/pid7073-webapp-corner-comedie-abonne.html"
   },
   "covers": [
+    "URLLogoChannel":"https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/top/61767363",
     {
       "type": "coverImage",
       "contents": [
